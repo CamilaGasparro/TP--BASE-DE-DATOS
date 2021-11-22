@@ -1,0 +1,7 @@
+Eowyn,10,8
+Gandalf,100,5
+Sam,36,8
+Galadriel,120,6
+David,100,100
+Ailin,500,50
+fede,100,150

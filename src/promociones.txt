@@ -1,0 +1,6 @@
+Pack aventura,2,Bosque Negro,Mordor,Porcentual,0.2
+Pack aventura plus,3,Bosque Negro,Mordor,Lothlórien,Porcentual,0.1
+Pack degustación gold,3,Lothlórien,Erebor,La Comarca,Absoluta,46 
+Pack degustación,2,Lothlórien,La Comarca,Absoluta,36 
+Pack aventuraAXB,2,Minas Tirith,El Abismo de Helm,AxB,2,Erebor, La Comarca
+Pack aventura extrema,2,Minas Tirith,Lothlórien,AxB,2,Bosque Negro,Erebor
