@@ -1,0 +1,6 @@
+REGISTRO DE EOWYN:
+ - Tiempo invertido en Tierra Media: 0.0 hs.
+ - Monedas gastadas en Tierra Media: 0.0.
+ - Atracciones visitadas: [Moria, Minas Tirith, La Comarca, Mordor, El Abismo de Helm, Lothlórien, Erebor, Bosque Negro]
+ - Monedas remanentes: 8.0
+ - Tiempo restante: 63.5

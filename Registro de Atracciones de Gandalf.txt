@@ -1,0 +1,6 @@
+REGISTRO DE GANDALF:
+ - Tiempo invertido en Tierra Media: 16.5 hs.
+ - Monedas gastadas en Tierra Media: 70.0.
+ - Atracciones visitadas: [Mordor, Bosque Negro, Lothlórien, Moria, La Comarca]
+ - Monedas remanentes: 25.0
+ - Tiempo restante: 13.5
